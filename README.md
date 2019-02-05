@@ -1,5 +1,4 @@
-
-#Linear Regression project using PySpark
+# Linear Regression project using PySpark
 
 Data has been taken from UC Irvine Machine Learning repository. It is a description of Ship carriers and the related parameters which includes: 
     * Ship Name
