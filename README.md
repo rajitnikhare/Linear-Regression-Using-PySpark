@@ -10,7 +10,7 @@ Data has been taken from UC Irvine Machine Learning repository. It is a descript
     
     4. Tonnage
     
-    5. Passanger Capacity
+    5. Passenger Capacity
     
     6. Length
     
