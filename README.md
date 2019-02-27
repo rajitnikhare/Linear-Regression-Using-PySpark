@@ -20,4 +20,4 @@ Data has been taken from UC Irvine Machine Learning repository. It is a descript
     
     9. Crew (Target Variable)
 
-I would be using PySpark and Machine Learning to predict our target variable, Crew. 
+I have used PySpark and Machine Learning to predict our target variable, Crew. 
